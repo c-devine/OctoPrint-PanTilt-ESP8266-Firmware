@@ -1,0 +1,17 @@
+{
+	"hostname" : "wifipantilt",
+	"remote_ap" : {
+		"name" : "",
+		"password" : ""
+	},
+	"pan" : {
+		"min" : "",
+		"max" : "",
+		"us" : ""
+	},
+	"tilt": {
+		"min" : "",
+		"max" : "",
+		"us" : ""
+	}
+}
