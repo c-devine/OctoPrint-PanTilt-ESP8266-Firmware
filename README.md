@@ -22,6 +22,7 @@ This project was built with the Sloeber eclipse IDE and the esp8266 libraries.
 <img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware/snapshots/assets/img/webcam.png?raw=true" width="320" height="240">
 <img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware/snapshots/assets/img/board_bottom.png?raw=true" width="320" height="240">
 <img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-ESP8266-Firmware/snapshots/assets/img/board_top.png?raw=true" width="320" height="240">
+<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano/snapshots/assets/img/harness.png?raw=true" width="320" height="240">
 
 
 ## Setup
