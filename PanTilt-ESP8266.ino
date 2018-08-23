@@ -18,6 +18,8 @@ enum server_mode serverMode = MODE_OFF;
 
 void setup() {
 
+    Serial.begin(115200);
+
 	led.off();
 	led8266.off();
 
@@ -35,8 +37,6 @@ void setup() {
 	tilt.attach(TILT_PIN, config.tiltMin, config.tiltMax);
 	pan.writeMicroseconds(config.panUs);
 	tilt.writeMicroseconds(config.tiltUs);
-
-	Serial.begin(115200);
 
 	// start the web server
 	startWebServer();
